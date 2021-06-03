@@ -35,11 +35,11 @@ export const FormContainer = styled.div`
     }
 
     input {
-      height: 45px;
+      height: 48px;
       margin-bottom: 15px;
       border-radius: 5px;
       padding: 5px;
-      border-color: #000;
+      border: 1px solid #b8b8b8;
     }
 
     button {
